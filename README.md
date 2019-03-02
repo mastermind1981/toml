@@ -73,6 +73,7 @@ enabled = true
 [servers]
 
   # Indentation (tabs and/or spaces) is allowed but not required
+  
   [servers.alpha]
   ip = "10.0.0.1"
   dc = "eqdc10"
